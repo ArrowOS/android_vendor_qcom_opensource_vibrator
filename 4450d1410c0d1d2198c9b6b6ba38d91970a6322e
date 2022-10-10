@@ -1,0 +1,21 @@
+{
+  "comments": [
+    {
+      "unresolved": false,
+      "key": {
+        "uuid": "378eb7a9_3581a4df",
+        "filename": "/PATCHSET_LEVEL",
+        "patchSetId": 1
+      },
+      "lineNbr": 0,
+      "author": {
+        "id": 71
+      },
+      "writtenOn": "2022-10-10T11:27:11Z",
+      "side": 1,
+      "message": "Better follow qti history. If new tag\u0027s hal don\u0027t work on your device, use imported in device tree.",
+      "revId": "4450d1410c0d1d2198c9b6b6ba38d91970a6322e",
+      "serverId": "66da7299-18b4-411a-8fa2-12a880778196"
+    }
+  ]
+}
